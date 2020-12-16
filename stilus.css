@@ -1,0 +1,64 @@
+/* CSS Document */
+.main{
+	max-width: 800px;
+	width: 100%;
+	margin: auto;
+	border: 1px solid rgba(0, 0, 0, 0.664);
+	background-color: rgba(255, 255, 255, 0.767);
+		
+}
+h1 {
+	text-align: center;
+	font-family: arial, helvetaica, sans-serif;
+}
+td {
+	text-align: center;
+}
+table {
+	width: 100%;
+	margin-top: 20px;
+	margin: auto;
+		
+}
+td {
+	font-size: 12px;
+	text-align: center;
+	color: gray;
+}
+#kep {
+	margin-top: 20px;
+	width: 100%;
+	height: 300px;
+	background-image: url(mezeskalacs.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+}
+th {
+	font-weight: normal;
+	color: darkred;
+	
+}
+h2, h3{
+	padding-left: 20px;
+	padding-right: 20px;
+}
+ol, ul {
+	padding-left: 40px;
+	padding-right: 40px;
+}
+ul li {
+	line-height: 30px;
+}
+ol li {
+	margin-bottom: 30px;
+	line-height: 25px;
+
+}
+ul li b {
+	color: darkred;
+}
+body {
+	background-image: url(depositphotos_91467558-stock-photo-the-perfect-christmas-background.jpg);
+
+}
